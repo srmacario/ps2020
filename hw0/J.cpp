@@ -9,7 +9,6 @@ int main(){
     string a,b;
     //leitura
     cin >> a >> b;
-
     //saída
     cout << a.size() << " " << b.size() << "\n";
     cout << a+b << "\n";
